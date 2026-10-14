@@ -5,7 +5,7 @@ lang: hu
 
 # CastCut Studio – Adatkezelési tájékoztató a bot felhasználóinak
 
-**Verzió:** 1.0 · **Hatályos:** 2026. október 14.
+**Verzió:** 1.1 · **Hatályos:** 2026. október 14.
 
 Ez a tájékoztató annak szól, aki egy CastCut Studio-projekt Telegram-botjának ír (tulajdonos, munkatárs, segítő),
 vagy akinek a képe, hangja egy beküldött felvételen szerepel.
@@ -40,6 +40,9 @@ vagy akinek a képe, hangja egy beküldött felvételen szerepel.
 - A videók szerkesztése közben a projekt által használt **Anthropic (Claude)** szolgáltatás látja a feldolgozott
   részleteket (képkockák, átiratok, üzenetek). A beszédfelismerés a számítógépen helyben fut.
 - **Telegram** továbbítja az üzeneteket; **Google** tárolja a Drive-tartalmat.
+- Ha a vállalkozás bekapcsolja a Bufferen keresztüli posztolást, a kész, jóváhagyott videó és a posztszöveg a
+  vállalkozás saját **Buffer**-fiókjába kerül; a videófájl ehhez a vállalkozás Drive-ján a közzétételig „bárki,
+  akinek megvan a link” módon elérhető, utána újra privát.
 - Ezek a szolgáltatók az Európai Unión kívül is kezelhetnek adatot; erre saját feltételeik és az általuk
   alkalmazott adattovábbítási garanciák vonatkoznak.
 - A kész videókat a vállalkozás teszi közzé; onnan a közösségi platformok szabályai érvényesek.

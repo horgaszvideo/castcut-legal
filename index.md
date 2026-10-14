@@ -5,7 +5,7 @@ lang: hu
 
 # CastCut Studio – jogi információk · legal information
 
-**Hatályos verzió / current version: 1.0** · Kapcsolat / contact: horgaszvideo.bot@gmail.com
+**Hatályos verzió / current version: 1.1** · Kapcsolat / contact: horgaszvideo.bot@gmail.com
 
 ## Magyarul (irányadó)
 - [Általános Szerződési Feltételek](hu/aszf.md)
@@ -23,4 +23,4 @@ lang: hu
 
 ## Egyéb · other
 - [Harmadik felek összetevői · third-party components](notice.md)
-- Korábbi verziók / earlier versions: [v1.0](v1.0/hu/aszf.md) (a jelenlegi / current)
+- Verziók / versions: [v1.0](v1.0/hu/aszf.md) · [v1.1](v1.1/hu/aszf.md) (a jelenlegi / current)

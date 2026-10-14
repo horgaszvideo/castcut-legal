@@ -5,7 +5,7 @@ lang: hu
 
 # CastCut Studio – Általános Szerződési Feltételek (ÁSZF)
 
-**Verzió:** 1.0 · **Hatályos:** 2026. október 14. · **Nyelv:** a magyar szöveg az irányadó;
+**Verzió:** 1.1 · **Hatályos:** 2026. október 14. · **Nyelv:** a magyar szöveg az irányadó;
 az angol fordítás tájékoztató jellegű.
 
 ## Kiemelt rendelkezések – kérjük, ezeket olvasd el különösen figyelmesen
@@ -149,7 +149,7 @@ egyedileg megállapodhatnak.
 ## 10. Harmadik felek szolgáltatásai
 
 10.1. A CastCut Studio más szolgáltatók szolgáltatásaira épül, különösen: Anthropic (Claude), Google (Drive),
-Telegram, zenei könyvtárak, valamint a közösségi platformok. Ezekre saját feltételeik vonatkoznak.
+Telegram, Buffer (ha a vállalkozás bekapcsolja), zenei könyvtárak, valamint a közösségi platformok. Ezekre saját feltételeik vonatkoznak.
 
 10.2. A Szolgáltató nem felel ezeknek a szolgáltatásoknak a működéséért, változásáért, megszűnéséért, és azért, ha
 egy platform tartalmat korlátoz vagy eltávolít.

@@ -5,7 +5,7 @@ lang: hu
 
 # CastCut Studio – Adatfeldolgozási feltételek („A” üzemmód)
 
-**Verzió:** 1.0 · Hatályos: 2026. október 14. · Az ÁSZF melléklete; az ÁSZF elfogadásával együtt jön létre
+**Verzió:** 1.1 · Hatályos: 2026. október 14. · Az ÁSZF melléklete; az ÁSZF elfogadásával együtt jön létre
 (GDPR 28. cikk).
 
 ## 1. Felek és tárgy
@@ -32,7 +32,8 @@ a vezérlőpult csak helyben érhető el, tokennel; a Drive-hoz a bot csak a pro
 hozzá; a munkapéldányok a munka végén törlődnek; a számítógép lemeze titkosított (FileVault).
 
 3.4. **További adatfeldolgozók** (a Vállalkozás ezeket az ÁSZF elfogadásával jóváhagyja): Anthropic (Claude – a
-szerkesztés során), Google (Drive – tárolás), Telegram (üzenetküldés). Új további adatfeldolgozó bevonásáról a
+szerkesztés során), Google (Drive – tárolás), Telegram (üzenetküldés), Buffer (közzététel – csak ha a Vállalkozás
+bekapcsolja). Új további adatfeldolgozó bevonásáról a
 Szolgáltató előzetesen értesít; a Vállalkozás tiltakozhat, és ilyenkor a szerződést megszüntetheti.
 
 3.5. Segít a Vállalkozásnak az érintettek kérelmeinek teljesítésében (hozzáférés, törlés stb.).

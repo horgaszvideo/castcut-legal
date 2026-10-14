@@ -5,7 +5,7 @@ lang: en
 
 # CastCut Studio – Data Processing Terms (mode "A")
 
-**Version:** 1.0 · Effective: 14 October 2026 · Annex to the GTC; concluded together with acceptance of the GTC (GDPR
+**Version:** 1.1 · Effective: 14 October 2026 · Annex to the GTC; concluded together with acceptance of the GTC (GDPR
 art. 28). Translation; the Hungarian text ([HU](../hu/adatfeldolgozas.md)) prevails.
 
 ## 1. Parties and subject
@@ -31,7 +31,7 @@ control panel is reachable only locally, with a token; the bot reaches Drive onl
 by copying; working copies are deleted at the end of a job; the computer's disk is encrypted (FileVault).
 
 3.4. **Sub-processors** (approved by the Business by accepting the GTC): Anthropic (Claude – during editing), Google
-(Drive – storage), Telegram (messaging). The Provider gives notice before adding a new sub-processor; the Business
+(Drive – storage), Telegram (messaging), Buffer (posting – only if the Business switches it on). The Provider gives notice before adding a new sub-processor; the Business
 may object and then terminate the contract.
 
 3.5. Helps the Business fulfil data subjects' requests (access, deletion, etc.).

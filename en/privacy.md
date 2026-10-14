@@ -5,7 +5,7 @@ lang: en
 
 # CastCut Studio – Privacy Notice for bot users
 
-**Version:** 1.0 · **Effective:** 14 October 2026 · Translation; the Hungarian text
+**Version:** 1.1 · **Effective:** 14 October 2026 · Translation; the Hungarian text
 ([HU](../hu/adatkezeles.md)) prevails.
 
 This notice is for anyone who writes to the Telegram bot of a CastCut Studio project (owner, staff, helper), or whose
@@ -41,6 +41,9 @@ legitimate interest (GDPR art. 6(1)(b) and (f)); for people in the footage, the 
 - While editing, the **Anthropic (Claude)** service used by the project sees the processed parts (frames,
   transcripts, messages). Speech recognition runs locally on the computer.
 - **Telegram** carries the messages; **Google** stores the Drive content.
+- If the business switches on posting through Buffer, the finished, approved video and the post text go to the
+  business's own **Buffer** account; for this the video file in the business's Drive is readable by anyone with the
+  link until it is posted, then private again.
 - These providers may process data outside the European Union, under their own terms and transfer safeguards.
 - The business publishes the finished videos; from there the platforms' rules apply.
 

@@ -5,7 +5,7 @@ lang: en
 
 # CastCut Studio – General Terms and Conditions (GTC)
 
-**Version:** 1.0 · **Effective:** 14 October 2026 · **Language:** this is a translation; the
+**Version:** 1.1 · **Effective:** 14 October 2026 · **Language:** this is a translation; the
 Hungarian text ([HU](../hu/aszf.md)) prevails.
 
 ## Key provisions – please read these with particular care
@@ -147,7 +147,7 @@ switch the mark off.
 ## 10. Third-party services
 
 10.1. CastCut Studio builds on services of other providers, in particular Anthropic (Claude), Google (Drive),
-Telegram, music libraries and the social platforms. Their own terms apply to them.
+Telegram, Buffer (if the business switches it on), music libraries and the social platforms. Their own terms apply to them.
 
 10.2. The Provider is not responsible for the operation, changes or ending of these services, or for a platform
 restricting or removing content.
