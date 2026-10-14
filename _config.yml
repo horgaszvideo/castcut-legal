@@ -1,0 +1,7 @@
+title: CastCut Studio – legal
+description: ÁSZF, licenc, adatkezelés · GTC, licence, privacy
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
